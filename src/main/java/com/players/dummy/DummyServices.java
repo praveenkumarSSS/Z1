@@ -7,4 +7,7 @@ import org.springframework.stereotype.Service;
 @Component
 public class DummyServices {
 
+	//doing changes checking 
+	//commiting the message checking
+
 }
